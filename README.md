@@ -22,7 +22,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Cait    | Tiles | [Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433)      | 
 | Celianna| Tiles | [Exterior Parallax presets have buildings for a Japanese Theme](http://pixanna.nl/materials/celiannas-parallax-tiles/exterior-tiles/) |  
 | Chihuahua Poison| Tiles | [Japanese indoor and restaurant tiles](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/FSM%20Posters/No%20Blog%20Found/japanesetilescrchihuahuapoison_zps9e88cc84.png)|
-|Daisuke Hyobu (Leopard Blog) (previously Soldier Record)| Tiles | [Roof, windows, screen tiles](http://hyouburogu.jugem.jp/?eid=232#)| 
+|Daisuke Hyobu | Tiles | [Roof, windows, screen tiles](http://hyouburogu.jugem.jp/?eid=232#)| 
 |Daisuke Hyobu | Tiles | [Public Bath and pool](http://hyouburogu.jugem.jp/?eid=209#)|
 |Daisuke Hyobu | Tiles | [hair dryers, vending machines, trash cans](http://hyouburogu.jugem.jp/?eid=208#) |
 |Daisuke Hyobu | Tiles | [sliding doors](http://hyouburogu.jugem.jp/?eid=207#) |
