@@ -15,7 +15,6 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 ## List of Japanese Themed Resources
 
 - [**Asato**'s Japanese tiles](http://aklj00dla.blog.fc2.com/blog-entry-18.html#), and [bamboo forest autotile](http://aklj00dla.blog.fc2.com/blog-entry-34.html#)  
-- [**Between Truth and Fantasy**'s interior, exterior and world map Japanese tiles](http://www.geocities.jp/chierin4649/tkoolsozai.html) - follow the fifth link  
 - [**Cait**'s Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433), [interior, exterior](http://nicnubill.deviantart.com/art/Japanese-Style-405980413), and [Japanese Doors](http://nicnubill.deviantart.com/art/Japanese-Doors-406054192)  
 - [**Celianna**'s Exterior Parallax presets have buildings for a Japanese Theme](http://pixanna.nl/materials/celiannas-parallax-tiles/exterior-tiles/)  
 - **Chihuahua Poison** - Japanese indoor and restaurant tiles - see FSM spoiler below  
@@ -42,6 +41,9 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 - [Tokkuri's Japanese Signs](http://tokkuritomattari.blog.fc2.com/blog-entry-143.html)  
 - [**Tomo** posts many traditional Japanese monsters and a few tiles](http://rpgdot.blog92.fc2.com/)  
 - [**Ying**'s japanese temple tiles](http://forums.rpgmakerweb.com/index.php?/topic/35360-yings-things/) 
+
+## Dead Link
+- [**Between Truth and Fantasy**'s interior, exterior and world map Japanese tiles](http://www.geocities.jp/chierin4649/tkoolsozai.html) - follow the fifth link  
 
 ## Credits 
 GrandmaDeb: https://forums.rpgmakerweb.com/index.php?members/grandmadeb.1394/
