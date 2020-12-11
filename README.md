@@ -14,6 +14,44 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 
 ## List of Japanese Themed Resources
 
+
+| Artist  | Type  | Link  |
+|---      |---    |---    |
+| Asato   | Tiles | [Japanese tiles](http://aklj00dla.blog.fc2.com/blog-entry-18.html#)|
+| Asato   | Tiles | [bamboo forest autotile](http://aklj00dla.blog.fc2.com/blog-entry-34.html#)|
+| Cait    | Tiles | [Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433)      | 
+| Celianna| Tiles | [Exterior Parallax presets have buildings for a Japanese Theme](http://pixanna.nl/materials/celiannas-parallax-tiles/exterior-tiles/) |  
+| Chihuahua Poison| Tiles | [Japanese indoor and restaurant tiles](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/FSM%20Posters/No%20Blog%20Found/japanesetilescrchihuahuapoison_zps9e88cc84.png)|
+|Daisuke Hyobu (Leopard Blog) (previously Soldier Record)| Tiles | [Roof, windows, screen tiles](http://hyouburogu.jugem.jp/?eid=232#)| 
+|Daisuke Hyobu | Tiles | [Public Bath and pool](http://hyouburogu.jugem.jp/?eid=209#)|
+|Daisuke Hyobu | Tiles | [hair dryers, vending machines, trash cans](http://hyouburogu.jugem.jp/?eid=208#) |
+|Daisuke Hyobu | Tiles | [sliding doors](http://hyouburogu.jugem.jp/?eid=207#) |
+|Daisuke Hyobu | Tiles | [interior tiles - decor](http://hyouburogu.jugem.jp/?eid=204#)|
+|Daisuke Hyobu | Tiles | [exterior tiles](http://hyouburogu.jugem.jp/?eid=198#) |
+|Daisuke Hyobu | Tiles | [bonzai plants](http://hyouburogu.jugem.jp/?eid=196#)|
+|Daisuke Hyobu | Tiles | [interior decor](http://hyouburogu.jugem.jp/?eid=195#)|
+|Daisuke Hyobu | Tiles | [interior kitchen tiles](http://hyouburogu.jugem.jp/?eid=188#)|
+|Daisuke Hyobu | Tiles | [exterior decor, statues, flags](http://hyouburogu.jugem.jp/?eid=183#)|
+|Daisuke Hyobu | Tiles | [exterior decor](http://hyouburogu.jugem.jp/?eid=179#)|
+|Daisuke Hyobu | Tiles | [door and roof features](http://hyouburogu.jugem.jp/?eid=163#)|
+|Daisuke Hyobu | Tiles | [weapons and food](http://hyouburogu.jugem.jp/?eid=177#)|
+|Daisuke Hyobu | Tiles | [benches, lamps, flags for doorways](http://hyouburogu.jugem.jp/?eid=159#)|
+|Daisuke Hyobu | Tiles | [exterior house features](http://hyouburogu.jugem.jp/?eid=149#) |
+|Daisuke Hyobu | Sprites | [Japanese Sprites](http://hyouburogu.jugem.jp/?eid=279) |
+|[Hachisuka][hachi] | Sprites | [Ju-Shin Characters](http://hachisukaan.blog.fc2.com/blog-entry-49.html#more) | 
+|[Hachisuka][hachi] | Sprites | [here](http://hachisukaan.blog.fc2.com/blog-entry-39.html) | 
+|[Hachisuka][hachi] | Sprites | [here](http://hachisukaan.blog.fc2.com/blog-entry-26.html#more) | 
+|[Hachisuka][hachi] | Sprites | [here](http://hachisukaan.blog.fc2.com/blog-entry-25.html#more) | 
+|[Hachisuka][hachi] | Sprites | [here](http://hachisukaan.blog.fc2.com/blog-entry-22.html) | 
+|[Hachisuka][hachi] | Sprites | [ships](http://hachisukaan.blog.fc2.com/blog-entry-110.html)   | 
+|[Hachisuka][hachi] | Sprites | [more ships](http://hachisukaan.blog.fc2.com/blog-entry-81.html) | 
+
+
+[hachi]: (http://hachisukaan.blog.fc2.com/blog-category-23.html)
+
+
+## Original List
+
 - [**Asato**'s Japanese tiles](http://aklj00dla.blog.fc2.com/blog-entry-18.html#), and [bamboo forest autotile](http://aklj00dla.blog.fc2.com/blog-entry-34.html#)  
 - [**Cait**'s Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433), [interior, exterior](http://nicnubill.deviantart.com/art/Japanese-Style-405980413), and [Japanese Doors](http://nicnubill.deviantart.com/art/Japanese-Doors-406054192)  
 - [**Celianna**'s Exterior Parallax presets have buildings for a Japanese Theme](http://pixanna.nl/materials/celiannas-parallax-tiles/exterior-tiles/)  
