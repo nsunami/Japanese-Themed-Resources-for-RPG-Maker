@@ -44,8 +44,36 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 |[Hachisuka][hachi] | Sprites | [here](http://hachisukaan.blog.fc2.com/blog-entry-25.html#more) | 
 |[Hachisuka][hachi] | Sprites | [here](http://hachisukaan.blog.fc2.com/blog-entry-22.html) | 
 |[Hachisuka][hachi] | Sprites | [ships](http://hachisukaan.blog.fc2.com/blog-entry-110.html)   | 
-|[Hachisuka][hachi] | Sprites | [more ships](http://hachisukaan.blog.fc2.com/blog-entry-81.html) | 
-
+|[Hachisuka][hachi] | Sprites | [more ships](http://hachisukaan.blog.fc2.com/blog-entry-81.html) |
+| EB | Tiles | Modern Japanese home tiles - see spoiler below |
+| Glitter | Tiles | indoor Japanese decor - see FSM spoiler below |
+| Into | Tiles | Japanese sofa - see FSM spoiler below |
+| Kento | Tiles | [Shrine, indoor accessories](http://kento-2nd.net/material.html) | 
+| Konoe | Tiles | [Kimonos](http://konoee.blog137.fc2.com/blog-entry-161.html#) | 
+| Konoe | Tiles | [charcoal stove](http://konoee.blog137.fc2.com/blog-entry-158.html) |
+| Konoe | Tiles | [awnings](http://konoee.blog137.fc2.com/blog-entry-109.html) |
+| Konoe | Tiles | [tea house (interior/exterior)](http://konoee.blog137.fc2.com/blog-entry-143.html) | 
+| Konoe | Tiles | [folding screen](http://konoee.blog137.fc2.com/blog-entry-129.html) | 
+| Konoe | Tiles | [Japanese pine tree](http://konoee.blog137.fc2.com/blog-entry-125.html) | 
+| Konoe | Tiles | [Japanese interior floral display](http://konoee.blog137.fc2.com/blog-entry-121.html) | 
+| Konoe | Tiles | [Japanese well](http://konoee.blog137.fc2.com/blog-entry-119.html) | 
+| Konoe | Tiles | [Japanese chest of drawers](http://konoee.blog137.fc2.com/blog-entry-111.html) | 
+| Konoe | Tiles | [Mount Fuji (World Map)](http://konoee.blog137.fc2.com/blog-entry-86.html) | 
+| Konoe | Tiles | [Japanese styled flags](http://konoee.blog137.fc2.com/blog-entry-46.html) | 
+| Kaduki | Tiles | [Japanese Tiles - see link rpg_map](http://usui.moo.jp/rpg_map.html) | 
+| Kimaila | Tiles | [Indoor Japanese Tiles](http://sepiarche.web.fc2.com/kimacage/map/map02.html)   | 
+| Love Rabbit | Tiles | Japanese Sliding panel doors - see FSM spoiler below | 
+| Mack | Tiles | [here](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/tilea4mack_zps6ec00973.png) [here](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/tileemack_zps9cfa7474.png) | 
+| MetalRaptor | Tiles | [Japanese-style Bridge](http://metalraptor.deviantart.com/art/Japanese-Style-Bridge-RPG-Maker-Tile-set-392317758)   | 
+| Mogi Mogi Kun | Sprites | [Japanese Schoolgirl sprites](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/FSM%20Posters/No%20Blog%20Found/japaneseschoolgirlspritescrmogimogikun_zpsa2ecfd3a.png) | 
+| RPGMakerVXAce.net ReStaff | Tiles | [RPGMakerVXAce.net ReStaff posts Oriental Portraits and Pagoda/japanese building tiles](http://www.rpgmakervxace.net/topic/31259-march-restaff-beauty-of-the-orient/)   | 
+| -RYU- | Tiles | [here](http://img.www5.hp-ez.com/img/white-patisserie/a_20140307-181316.png) |
+| -RYU- | Tiles | [here](http://img.www5.hp-ez.com/img/white-patisserie/a_20130828-003049.png)   | 
+| Satton | Tiles | [link]((http://him2.sakura.ne.jp/labo/)) | 
+| Takeda Hasake | Title Screen | [Japanese title screen](http://www.rpgmakervxace.net/topic/3136-touhou-ressource-request-and-title-request/?p=29756) | 
+| Tokkuri | Tiles | [Japanese Signs](http://tokkuritomattari.blog.fc2.com/blog-entry-143.html)  | 
+| Tomo | Tiles | [traditional Japanese monsters and a few tiles](http://rpgdot.blog92.fc2.com/)  | 
+| Ying | Tiles | [Japanese temple tiles](http://forums.rpgmakerweb.com/index.php?/topic/35360-yings-things/)  | 
 
 [hachi]: (http://hachisukaan.blog.fc2.com/blog-category-23.html)
 
@@ -67,18 +95,19 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 - [**Kento**'s Shrine, indoor accessories](http://kento-2nd.net/material.html) - choose the red link for materials, scroll down  
 - **Konoe** posts [Kimonos](http://konoee.blog137.fc2.com/blog-entry-161.html#), [charcoal stove](http://konoee.blog137.fc2.com/blog-entry-158.html), [awnings](http://konoee.blog137.fc2.com/blog-entry-109.html), [tea house (interior/exterior)](http://konoee.blog137.fc2.com/blog-entry-143.html), [folding screen](http://konoee.blog137.fc2.com/blog-entry-129.html), [Japanese pine tree](http://konoee.blog137.fc2.com/blog-entry-125.html), [Japanese interior floral display](http://konoee.blog137.fc2.com/blog-entry-121.html), [Japanese well](http://konoee.blog137.fc2.com/blog-entry-119.html), [Japanese chest of drawers](http://konoee.blog137.fc2.com/blog-entry-111.html), [Mount Fuji (World Map)](http://konoee.blog137.fc2.com/blog-entry-86.html), [Japanese styled flags](http://konoee.blog137.fc2.com/blog-entry-46.html)  
 - [**Kaduki**'s Japanese Tiles - see link rpg_map](http://usui.moo.jp/rpg_map.html) and under Actor-etc there are samurai sprites  
-[**Kimaila** Indoor Japanese Tiles](http://sepiarche.web.fc2.com/kimacage/map/map02.html)  
+- [**Kimaila** Indoor Japanese Tiles](http://sepiarche.web.fc2.com/kimacage/map/map02.html)  
 - **Love Rabbit** - Japanese Sliding panel doors - see FSM spoiler below  
 - **Mack** - see spoiler below  
 - [**MetalRaptor**'s Japanese-style Bridge](http://metalraptor.deviantart.com/art/Japanese-Style-Bridge-RPG-Maker-Tile-set-392317758)  
 - **Mogi Mogi Kun** - Japanese Schoolgirl sprites - see FSM spoiler below  
-[RPGMakerVXAce.net ReStaff posts Oriental Portraits and Pagoda/japanese building tiles](http://www.rpgmakervxace.net/topic/31259-march-restaff-beauty-of-the-orient/)  
+- [RPGMakerVXAce.net ReStaff posts Oriental Portraits and Pagoda/japanese building tiles](http://www.rpgmakervxace.net/topic/31259-march-restaff-beauty-of-the-orient/)  
 - [**-RYU-** or White Patisserie, here](http://img.www5.hp-ez.com/img/white-patisserie/a_20140307-181316.png), and [here](http://img.www5.hp-ez.com/img/white-patisserie/a_20130828-003049.png)  
 - [**Satton**](http://him2.sakura.ne.jp/labo/), check the second to last link for a full set of pre-made, very nice ninjas; there is a generator as well  
 - [**Takeda Hasake**'s Japanese title screen](http://www.rpgmakervxace.net/topic/3136-touhou-ressource-request-and-title-request/?p=29756)  
 - [Tokkuri's Japanese Signs](http://tokkuritomattari.blog.fc2.com/blog-entry-143.html)  
 - [**Tomo** posts many traditional Japanese monsters and a few tiles](http://rpgdot.blog92.fc2.com/)  
 - [**Ying**'s japanese temple tiles](http://forums.rpgmakerweb.com/index.php?/topic/35360-yings-things/) 
+
 
 ## Broken Links
 - [**Between Truth and Fantasy**'s interior, exterior and world map Japanese tiles](http://www.geocities.jp/chierin4649/tkoolsozai.html) - follow the fifth link  
