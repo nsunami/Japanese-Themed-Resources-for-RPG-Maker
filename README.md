@@ -42,7 +42,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 - [**Tomo** posts many traditional Japanese monsters and a few tiles](http://rpgdot.blog92.fc2.com/)  
 - [**Ying**'s japanese temple tiles](http://forums.rpgmakerweb.com/index.php?/topic/35360-yings-things/) 
 
-## Dead Link
+## Broken Links
 - [**Between Truth and Fantasy**'s interior, exterior and world map Japanese tiles](http://www.geocities.jp/chierin4649/tkoolsozai.html) - follow the fifth link  
 
 ## Credits 
