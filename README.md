@@ -50,18 +50,18 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Glitter | Tiles | indoor Japanese decor - see FSM spoiler below |
 | Into | Tiles | Japanese sofa - see FSM spoiler below |
 | Kento | Tiles | [Shrine, indoor accessories](http://kento-2nd.net/material.html) | 
-| Konoe | Tiles | [Kimonos](http://konoee.blog137.fc2.com/blog-entry-161.html#) |  | [Terms][konoe_terms] | 
-| Konoe | Tiles | [charcoal stove](http://konoee.blog137.fc2.com/blog-entry-158.html) |
-| Konoe | Tiles | [awnings](http://konoee.blog137.fc2.com/blog-entry-109.html) |
-| Konoe | Tiles | [tea house (interior/exterior)](http://konoee.blog137.fc2.com/blog-entry-143.html) | 
-| Konoe | Tiles | [folding screen](http://konoee.blog137.fc2.com/blog-entry-129.html) | 
-| Konoe | Tiles | [Japanese pine tree](http://konoee.blog137.fc2.com/blog-entry-125.html) | 
+| Konoe | Tiles | [Kimonos](http://konoee.blog137.fc2.com/blog-entry-161.html#) | Mini | [Terms][konoe_terms]| 
+| Konoe | Tiles | [Hibachi - charcoal stove](http://konoee.blog137.fc2.com/blog-entry-158.html) | Mini | [Terms][konoe_terms]| 
+| Konoe | Tiles | [Noren - Japanese Shop Signs](http://konoee.blog137.fc2.com/blog-entry-109.html) | Medium  | [Terms][konoe_terms]| 
+| Konoe | Tiles | [Kawara Roof, tea house (interior/exterior)](http://konoee.blog137.fc2.com/blog-entry-143.html) | Mini | [Terms][konoe_terms]|  
+| Konoe | Tiles | [Byoubu - folding screen](http://konoee.blog137.fc2.com/blog-entry-129.html) | Mini | [Terms][konoe_terms]|  
+| Konoe | Tiles | [Japanese pine tree](http://konoee.blog137.fc2.com/blog-entry-125.html) | Mini | [Terms][konoe_terms]|  
 | Konoe | Tiles | [Japanese interior floral display](http://konoee.blog137.fc2.com/blog-entry-121.html) | 
 | Konoe | Tiles | [Japanese well](http://konoee.blog137.fc2.com/blog-entry-119.html) | 
 | Konoe | Tiles | [Japanese chest of drawers](http://konoee.blog137.fc2.com/blog-entry-111.html) | 
 | Konoe | Tiles | [Mount Fuji (World Map)](http://konoee.blog137.fc2.com/blog-entry-86.html) | 
 | Konoe | Tiles | [Japanese styled flags](http://konoee.blog137.fc2.com/blog-entry-46.html) | 
-| Komyusho | Tiles & Sprites | [Japanese Style.zip](https://ux.getuploader.com/RPGsozai_souko/download/5/wa.zip)| Extensive |
+| Komyusho | Tiles & Sprites | [Original Post](https://tm.lucky-duet.com/viewtopic.php?f=15&t=1594), [download link](https://ux.getuploader.com/RPGsozai_souko/download/5/wa.zip)| Extensive |
 | Kaduki | Tiles | [Japanese Tiles - see link rpg_map](http://usui.moo.jp/rpg_map.html) | 
 | Kimaila | Tiles | [Indoor Japanese Tiles](http://sepiarche.web.fc2.com/kimacage/map/map02.html)   | 
 | Love Rabbit | Tiles | Japanese Sliding panel doors - see FSM spoiler below | 
@@ -77,8 +77,9 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Tomo | Tiles | [traditional Japanese monsters and a few tiles](http://rpgdot.blog92.fc2.com/)  | 
 | Ying | Tiles | [Japanese temple tiles](http://forums.rpgmakerweb.com/index.php?/topic/35360-yings-things/)  | 
 
-[hachi]: (http://hachisukaan.blog.fc2.com/blog-category-23.html)
-[konoe_terms]: (http://hyouburogu.jugem.jp/?cid=5)
+[hachi]: http://hachisukaan.blog.fc2.com/blog-category-23.html
+
+[konoe_terms]: http://hyouburogu.jugem.jp/?cid=5
 
 
 ## Original List
