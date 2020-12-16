@@ -15,20 +15,20 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 ## List of Japanese Themed Resources
 
 
-| Artist  | Type  | Link  |
-|---      |---    |---    |
-| Asato   | Tiles | [Japanese tiles](http://aklj00dla.blog.fc2.com/blog-entry-18.html#)|
-| Asato   | Tiles | [bamboo forest autotile](http://aklj00dla.blog.fc2.com/blog-entry-34.html#)|
-| Cait    | Tiles | [Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433)      | 
-| Celianna| Tiles | [Exterior Parallax presets have buildings for a Japanese Theme](http://pixanna.nl/materials/celiannas-parallax-tiles/exterior-tiles/) |  
-| Chihuahua Poison| Tiles | [Japanese indoor and restaurant tiles](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/FSM%20Posters/No%20Blog%20Found/japanesetilescrchihuahuapoison_zps9e88cc84.png)|
-|Daisuke Hyobu | Tiles | [Roof, windows, screen tiles](http://hyouburogu.jugem.jp/?eid=232#)| 
-|Daisuke Hyobu | Tiles | [Public Bath and pool](http://hyouburogu.jugem.jp/?eid=209#)|
-|Daisuke Hyobu | Tiles | [hair dryers, vending machines, trash cans](http://hyouburogu.jugem.jp/?eid=208#) |
-|Daisuke Hyobu | Tiles | [sliding doors](http://hyouburogu.jugem.jp/?eid=207#) |
-|Daisuke Hyobu | Tiles | [interior tiles - decor](http://hyouburogu.jugem.jp/?eid=204#)|
-|Daisuke Hyobu | Tiles | [exterior tiles](http://hyouburogu.jugem.jp/?eid=198#) |
-|Daisuke Hyobu | Tiles | [bonzai plants](http://hyouburogu.jugem.jp/?eid=196#)|
+| Artist  | Type  | Link  | Volume |
+|---      |---    |---    |---     |
+| Asato   | Exterior | [Red-light-distlict-style building](http://aklj00dla.blog.fc2.com/blog-entry-18.html#)| Mini |
+| Asato   | Exterior | [bamboo forest autotile](http://aklj00dla.blog.fc2.com/blog-entry-34.html#)| Mini |
+| Cait    | Interior | [Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433) | Mini |  
+| Celianna| Exterior | [Exterior Tiles - Sakura Trees](http://pixanna.nl/materials/celiannas-parallax-tiles/exterior-tiles/) |  Mini |
+| Chihuahua Poison| Interior | [Japanese indoor and restaurant tiles](http://i444.photobucket.com/albums/qq168/grandmadeb_rmvx/FSM%20Posters/No%20Blog%20Found/japanesetilescrchihuahuapoison_zps9e88cc84.png)| Mini |
+|Daisuke Hyobu | Exterior | [Old Chinatown - Roof, windows, screen tiles](http://hyouburogu.jugem.jp/?eid=232#)| Medium |
+|Daisuke Hyobu | Interior | [Public Bath and pool](http://hyouburogu.jugem.jp/?eid=209#)| Mini | 
+|Daisuke Hyobu | Interior | [Public Bath - hair dryers, vending machines, trash cans](http://hyouburogu.jugem.jp/?eid=208#) |
+|Daisuke Hyobu | Interior | [Fusuma - sliding doors](http://hyouburogu.jugem.jp/?eid=207#) | Mini |
+|Daisuke Hyobu | Interior | [Interior Tiles Set - Futon, Kitchen](http://hyouburogu.jugem.jp/?eid=204#)| Medium | 
+|Daisuke Hyobu | Exterior | [Torii, Shrine, Fall Trees - Exterior Tiles](http://hyouburogu.jugem.jp/?eid=198#) |
+|Daisuke Hyobu | Interior & Exterior | [Sliding doors, bonzai plants, signs, cats, sprites](http://hyouburogu.jugem.jp/?eid=196#)| Medium |
 |Daisuke Hyobu | Tiles | [interior decor](http://hyouburogu.jugem.jp/?eid=195#)|
 |Daisuke Hyobu | Tiles | [interior kitchen tiles](http://hyouburogu.jugem.jp/?eid=188#)|
 |Daisuke Hyobu | Tiles | [exterior decor, statues, flags](http://hyouburogu.jugem.jp/?eid=183#)|
