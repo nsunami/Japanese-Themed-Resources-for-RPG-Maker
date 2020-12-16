@@ -60,6 +60,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Konoe | Tiles | [Japanese chest of drawers](http://konoee.blog137.fc2.com/blog-entry-111.html) | 
 | Konoe | Tiles | [Mount Fuji (World Map)](http://konoee.blog137.fc2.com/blog-entry-86.html) | 
 | Konoe | Tiles | [Japanese styled flags](http://konoee.blog137.fc2.com/blog-entry-46.html) | 
+| Komyusho | Tiles & Sprites | [Japanese Style.zip](https://ux.getuploader.com/RPGsozai_souko/download/5/wa.zip)| 
 | Kaduki | Tiles | [Japanese Tiles - see link rpg_map](http://usui.moo.jp/rpg_map.html) | 
 | Kimaila | Tiles | [Indoor Japanese Tiles](http://sepiarche.web.fc2.com/kimacage/map/map02.html)   | 
 | Love Rabbit | Tiles | Japanese Sliding panel doors - see FSM spoiler below | 
