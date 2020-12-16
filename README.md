@@ -15,8 +15,8 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 ## List of Japanese Themed Resources
 
 
-| Artist  | Type  | Link  | Volume |
-|---      |---    |---    |---     |
+| Artist  | Type  | Link  | Volume | Terms |
+|---      |---    |---    |---     | ---   |
 | Asato   | Exterior | [Red-light-distlict-style building](http://aklj00dla.blog.fc2.com/blog-entry-18.html#)| Mini |
 | Asato   | Exterior | [bamboo forest autotile](http://aklj00dla.blog.fc2.com/blog-entry-34.html#)| Mini |
 | Cait    | Interior | [Japanese Restaurant](http://nicnubill.deviantart.com/art/Japanese-rest-436041433) | Mini |  
@@ -50,7 +50,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Glitter | Tiles | indoor Japanese decor - see FSM spoiler below |
 | Into | Tiles | Japanese sofa - see FSM spoiler below |
 | Kento | Tiles | [Shrine, indoor accessories](http://kento-2nd.net/material.html) | 
-| Konoe | Tiles | [Kimonos](http://konoee.blog137.fc2.com/blog-entry-161.html#) | 
+| Konoe | Tiles | [Kimonos](http://konoee.blog137.fc2.com/blog-entry-161.html#) |  | [Terms][konoe_terms] | 
 | Konoe | Tiles | [charcoal stove](http://konoee.blog137.fc2.com/blog-entry-158.html) |
 | Konoe | Tiles | [awnings](http://konoee.blog137.fc2.com/blog-entry-109.html) |
 | Konoe | Tiles | [tea house (interior/exterior)](http://konoee.blog137.fc2.com/blog-entry-143.html) | 
@@ -61,7 +61,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Konoe | Tiles | [Japanese chest of drawers](http://konoee.blog137.fc2.com/blog-entry-111.html) | 
 | Konoe | Tiles | [Mount Fuji (World Map)](http://konoee.blog137.fc2.com/blog-entry-86.html) | 
 | Konoe | Tiles | [Japanese styled flags](http://konoee.blog137.fc2.com/blog-entry-46.html) | 
-| Komyusho | Tiles & Sprites | [Japanese Style.zip](https://ux.getuploader.com/RPGsozai_souko/download/5/wa.zip)| 
+| Komyusho | Tiles & Sprites | [Japanese Style.zip](https://ux.getuploader.com/RPGsozai_souko/download/5/wa.zip)| Extensive |
 | Kaduki | Tiles | [Japanese Tiles - see link rpg_map](http://usui.moo.jp/rpg_map.html) | 
 | Kimaila | Tiles | [Indoor Japanese Tiles](http://sepiarche.web.fc2.com/kimacage/map/map02.html)   | 
 | Love Rabbit | Tiles | Japanese Sliding panel doors - see FSM spoiler below | 
@@ -78,6 +78,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 | Ying | Tiles | [Japanese temple tiles](http://forums.rpgmakerweb.com/index.php?/topic/35360-yings-things/)  | 
 
 [hachi]: (http://hachisukaan.blog.fc2.com/blog-category-23.html)
+[konoe_terms]: (http://hyouburogu.jugem.jp/?cid=5)
 
 
 ## Original List
