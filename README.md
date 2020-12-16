@@ -46,6 +46,7 @@ Translations of terms and conditions are available [here](http://forums.rpgmaker
 |[Hachisuka][hachi] | Sprites | [ships](http://hachisukaan.blog.fc2.com/blog-entry-110.html)   | 
 |[Hachisuka][hachi] | Sprites | [more ships](http://hachisukaan.blog.fc2.com/blog-entry-81.html) |
 | EB | Tiles | Modern Japanese home tiles - see spoiler below |
+|Erufa| Tiles| [Free assets](https://erufwa1212.wixsite.com/erufwa/-------) |
 | Glitter | Tiles | indoor Japanese decor - see FSM spoiler below |
 | Into | Tiles | Japanese sofa - see FSM spoiler below |
 | Kento | Tiles | [Shrine, indoor accessories](http://kento-2nd.net/material.html) | 
